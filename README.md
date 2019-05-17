@@ -1,1 +1,1 @@
-# skripsigw.github.io
+# SkripsiGW
