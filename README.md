@@ -4,15 +4,17 @@
 - [Foundation Web](http://skripsi.ga/FoundationWeb/)
 
 ## Hasil Evaluasi
-### Mentah
+
 #### Bootstrap
 - [Homepage](https://SkripsiGW.github.io/HasilUji/bootstrap-homepage-last-1.html)
 - [Article](https://SkripsiGW.github.io/HasilUji/bootstrap-article-last-1.html)
 - [Static](https://SkripsiGW.github.io/HasilUji/bootstrap-static-last-1.html)
+
 #### Semantic UI
 - [Homepage](https://SkripsiGW.github.io/HasilUji/semantic-homepage-last-1.html)
 - [Article](https://SkripsiGW.github.io/HasilUji/semantic-article-last-1.html)
 - [Static](https://SkripsiGW.github.io/HasilUji/semantic-static-last-1.html)
+
 #### Foundation
 - [Homepage](https://SkripsiGW.github.io/HasilUji/foundation-homepage-last-1.html)
 - [Article](https://SkripsiGW.github.io/HasilUji/foundation-article-last-1.html)
