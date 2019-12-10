@@ -5,6 +5,10 @@
 
 ## Hasil Evaluasi
 
+#### Ringkasan
+![Hasil Pengujian Lighthouse](https://SkripsiGW.github.io/HasilUji/Nilai%20Evaluasi%20Lighthouse.png)
+![Pengukuran Waktu Pemuatan Laman](https://SkripsiGW.github.io/HasilUji/Timing%20Pemuatan%20Laman.png)
+
 #### Bootstrap
 - [Homepage](https://SkripsiGW.github.io/HasilUji/bootstrap-homepage-last-1.html)
 - [Article](https://SkripsiGW.github.io/HasilUji/bootstrap-article-last-1.html)
@@ -20,8 +24,10 @@
 - [Article](https://SkripsiGW.github.io/HasilUji/foundation-article-last-1.html)
 - [Static](https://SkripsiGW.github.io/HasilUji/foundation-static-last-1.html)
 
-## List Assets
-### Gambar
+
+## Credits
+### List Assets
+#### Gambar
 - [post-1](https://unsplash.com/photos/yHYW32je1Mc) by https://unsplash.com/@nicolasjleclercq
 - [post-2](https://unsplash.com/photos/5U8OFM9nhnU) by https://unsplash.com/@zhpix
 - [post-3](https://unsplash.com/photos/IcOn1qzoTHE) by https://unsplash.com/@maxsaeling
