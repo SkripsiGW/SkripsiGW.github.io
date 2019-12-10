@@ -1,10 +1,11 @@
-# SkripsiGW
+# Hasil Implementasi
+## Daftar Website
 - [Bootstrap Web](http://skripsi.ga/BootstrapWeb/)
 - [Semantic UI](http://skripsi.ga/SemanticWeb/)
 - [Foundation Web](http://skripsi.ga/FoundationWeb/)
 
-## Hasil Evaluasi
 
+## Hasil Evaluasi
 #### Ringkasan
 ![Hasil Pengujian Lighthouse](https://SkripsiGW.github.io/HasilUji/Nilai%20Evaluasi%20Lighthouse.png)
 ![Pengukuran Waktu Pemuatan Laman](https://SkripsiGW.github.io/HasilUji/Timing%20Pemuatan%20Laman.png)
