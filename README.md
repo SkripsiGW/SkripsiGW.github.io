@@ -1,16 +1,27 @@
 ## Hasil Implementasi
 #### Daftar Website
-- [Bootstrap Web](http://skripsi.ga/BootstrapWeb/)
-- [Semantic UI](http://skripsi.ga/SemanticWeb/)
-- [Foundation Web](http://skripsi.ga/FoundationWeb/)
+- [Bootstrap Web](http://SkripsiGW.github.io/BootstrapWeb/)
+- [Semantic UI](http://SkripsiGW.github.io/SemanticWeb/)
+- [Foundation Web](http://SkripsiGW.github.io/FoundationWeb/)
 
 
 ## Hasil Evaluasi
-#### Ringkasan
+#### Ringkasan Nilai Lighthouse
 ![Hasil Pengujian Lighthouse](https://SkripsiGW.github.io/HasilUji/Nilai%20Evaluasi%20Lighthouse.png)
+#### Average
+Kategori     | Bootstrap    | Semantic UI   | Foundation
+------------ | ------------ | ------------- | -------------
+Performance  | 99.7         | 95.3          | 97.3
+Accesibility | 92           | 90            | 91.7
+Best Practice| 92           | 89.7          | 92
+SEO          | 91           | 90.7          | 91
+Average Total| 93.6667      | 91.4          | 93
+
+#### Detail Waktu Pemuatan Laman
 ![Pengukuran Waktu Pemuatan Laman](https://SkripsiGW.github.io/HasilUji/Timing%20Pemuatan%20Laman.png)
 
-## Nilai
+
+## Detail Nilai Individual
 #### Bootstrap
 - [Homepage](https://SkripsiGW.github.io/HasilUji/bootstrap-homepage-last-1.html)
 - [Article](https://SkripsiGW.github.io/HasilUji/bootstrap-article-last-1.html)
