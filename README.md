@@ -14,11 +14,11 @@
    <tr><th>Kategori</th><th>Bootstrap</th><th>Semantic UI</th><th>Foundation</th></tr>
   </thead>
   <tbody>
-   <tr><th>Performance</th>   <td>99.7</td> <th>95.3</th> <td>97.3</td></tr>
-   <tr><th>Accessibility</th> <td>92</td>   <th>90</th>   <td>91.7</td></tr>
-   <tr><th>Best Practice</th> <td>92</td>   <th>89.7</th> <td>92</td></tr>
-   <tr><th>SEO</th>           <td>91</td>   <th>90.7</th> <td>91</td></tr>
-   <tr><th>Total Avg</th>     <td>93.67</td><th>91.4</th> <td>93</td></tr>
+   <tr><th>Performance</th>   <td>99.7</td> <td>95.3</td> <td>97.3</td></tr>
+   <tr><th>Accessibility</th> <td>92</td>   <td>90</td>   <td>91.7</td></tr>
+   <tr><th>Best Practice</th> <td>92</td>   <td>89.7</td> <td>92</td></tr>
+   <tr><th>SEO</th>           <td>91</td>   <td>90.7</td> <td>91</td></tr>
+   <tr><th>Total Avg</th>     <td>93.67</td><td>91.4</td> <td>93</td></tr>
   </tbody>
  </table>
 
