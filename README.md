@@ -9,13 +9,18 @@
 #### Ringkasan Nilai Lighthouse
 ![Hasil Pengujian Lighthouse](https://SkripsiGW.github.io/HasilUji/Nilai%20Evaluasi%20Lighthouse.png)
 #### Average
-Kategori     | Bootstrap    | Semantic UI   | Foundation
------------- | ------------ | ------------- | -------------
-Performance  | 99.7         | 95.3          | 97.3
-Accesibility | 92           | 90            | 91.7
-Best Practice| 92           | 89.7          | 92
-SEO          | 91           | 90.7          | 91
-Average Total| 93.6667      | 91.4          | 93
+ <table style="width: 100%;overflow-x: auto;">
+  <thead>
+   <tr><th>Kategori</th><th>Bootstrap</th><th>Semantic UI</th><th>Foundation</th></tr>
+  </thead>
+  <tbody>
+   <tr><th>Performance</th>   <td>99.7</td> <th>95.3</th> <td>97.3</td></tr>
+   <tr><th>Accessibility</th> <td>92</td>   <th>90</th>   <td>91.7</td></tr>
+   <tr><th>Best Practice</th> <td>92</td>   <th>89.7</th> <td>92</td></tr>
+   <tr><th>SEO</th>           <td>91</td>   <th>90.7</th> <td>91</td></tr>
+   <tr><th>Total Avg</th>     <td>93.67</td><th>91.4</th> <td>93</td></tr>
+  </tbody>
+ </table>
 
 #### Detail Waktu Pemuatan Laman
 ![Pengukuran Waktu Pemuatan Laman](https://SkripsiGW.github.io/HasilUji/Timing%20Pemuatan%20Laman.png)
